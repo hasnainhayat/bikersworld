@@ -1,6 +1,6 @@
 # bikersworld
 
-A new Flutter application.
+Just an other flutter app.
 
 ## Getting Started
 
